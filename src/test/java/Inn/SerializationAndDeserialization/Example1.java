@@ -16,7 +16,7 @@ import Pojo.PojoClass;;
 public class Example1 {
 
 	@Test
-	public void main() throws IOException {
+	public void TC1() throws IOException {
 		// https://reqres.in/api/users?page=2
 		RestAssured.baseURI = "https://reqres.in";
 		PojoClass response = given().expect().defaultParser(Parser.JSON).when().get("/api/users?page=2")
