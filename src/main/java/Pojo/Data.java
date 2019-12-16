@@ -1,17 +1,17 @@
 package Pojo;
 
 public class Data {
-	private String id;
+	private int id;
 	private String email;
 	private String first_name;
 	private String last_name;
 	private String avatar;
 	
 	
-	public String getId() {
+	public int getId() {
 		return id;
 	}
-	public void setId(String id) {
+	public void setId(int id) {
 		this.id = id;
 	}
 	public String getEmail() {

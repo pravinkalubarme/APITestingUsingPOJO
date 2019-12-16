@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2434" started-at="2019-12-16T12:19:24 IST" finished-at="2019-12-16T12:19:27 IST">
+  <suite name="Default suite" duration-ms="2786" started-at="2019-12-16T15:18:43 IST" finished-at="2019-12-16T15:18:45 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2434" started-at="2019-12-16T12:19:24 IST" finished-at="2019-12-16T12:19:27 IST">
+    <test name="Default test" duration-ms="2786" started-at="2019-12-16T15:18:43 IST" finished-at="2019-12-16T15:18:45 IST">
       <class name="Inn.SerializationAndDeserialization.Example1">
-        <test-method status="PASS" signature="TC1()[pri:0, instance:Inn.SerializationAndDeserialization.Example1@1f554b06]" name="TC1" duration-ms="2400" started-at="2019-12-16T12:19:24 IST" finished-at="2019-12-16T12:19:27 IST">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:Inn.SerializationAndDeserialization.Example1@1f554b06]" name="TC1" duration-ms="2753" started-at="2019-12-16T15:18:43 IST" finished-at="2019-12-16T15:18:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC1 -->
