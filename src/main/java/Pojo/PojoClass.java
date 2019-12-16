@@ -4,6 +4,12 @@ import java.util.List;
 
 public class PojoClass {
 	private List<Data> data;
+	private String page;
+	private String per_page;
+	private String total;
+	private String total_pages;	
+	
+	
 	public List<Data> getData() {
 		return data;
 	}
@@ -34,10 +40,7 @@ public class PojoClass {
 	public void setTotal_pages(String total_pages) {
 		this.total_pages = total_pages;
 	}
-	private String page;
-	private String per_page;
-	private String total;
-	private String total_pages;	
+	
 	
 	//To generate getter and setter method 
 	//Select all variables and press ALT+SHIFT+S 
