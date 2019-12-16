@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2786" started-at="2019-12-16T15:18:43 IST" finished-at="2019-12-16T15:18:45 IST">
+  <suite name="Default suite" duration-ms="2983" started-at="2019-12-16T15:23:07 IST" finished-at="2019-12-16T15:23:10 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2786" started-at="2019-12-16T15:18:43 IST" finished-at="2019-12-16T15:18:45 IST">
-      <class name="Inn.SerializationAndDeserialization.Example1">
-        <test-method status="PASS" signature="TC1()[pri:0, instance:Inn.SerializationAndDeserialization.Example1@1f554b06]" name="TC1" duration-ms="2753" started-at="2019-12-16T15:18:43 IST" finished-at="2019-12-16T15:18:45 IST">
+    <test name="Default test" duration-ms="2983" started-at="2019-12-16T15:23:07 IST" finished-at="2019-12-16T15:23:10 IST">
+      <class name="Inn.SerializationAndDeserialization.TestClass">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:Inn.SerializationAndDeserialization.TestClass@1f554b06]" name="TC1" duration-ms="2950" started-at="2019-12-16T15:23:07 IST" finished-at="2019-12-16T15:23:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC1 -->
-      </class> <!-- Inn.SerializationAndDeserialization.Example1 -->
+      </class> <!-- Inn.SerializationAndDeserialization.TestClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

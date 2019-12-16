@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 import Pojo.Data;
 import Pojo.PojoClass;;
 
-public class Example1 {
+public class TestClass {
 
 	@Test
 	 public void TC1() throws IOException {
